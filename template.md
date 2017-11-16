@@ -1,0 +1,82 @@
+---
+layout: post
+permalink: /template/
+title: "Template"
+date: 2017-11-07 03:06:27
+image: 'http://www.websiteoptimizers.com/blog/wp-content/uploads/2015/03/example-stamp.jpg'
+description: Use this template to create your own posts.
+category: 'Issue'
+tags:
+- Issue
+- Tags
+twitter_text: Description about the article
+introduction: Description about the article
+---
+
+The main body of the article should go here. Make sure to follow the guidelines and the Acceptable use policy.
+This is what the issue pages will look like. See
+The rest of this article shows how to style your article. Email "salesn@catlin.edu" for any questions.
+
+> To make a quote box, you can put a greater than sign, and make everything on one line.
+
+You can make things **bold** by enclosing them in two asterisks.
+You can make things ***italic*** by enclosing them in three asterisks.
+
+# Single
+## Double
+### Triple
+#### Quadruple
+
+To make a title, put 1, 2, 4, or 4 hashtags "#" in front of the title text.
+
+To make a bullet point list, put an asterisk character in front of each item.
+* Item 1
+* Item 2
+* Item 3
+
+Other lists include numbers. Just put the number and a dot after.
+1. Item 1
+2. Item 2
+3. Item 3
+
+Enclosing things in the key that also makes the ~ character, makes them look like `this`.
+
+There are many more complicated things you can use as well. These are called HTML elements.
+They are used by putting the opening tag on one side, and the closing tag on the other.
+
+`<name>Text</name>`
+
+The `name` can be changed to many things. Some are listed below. The closing tag is just the opening tag with a slash "/" in front.
+
+Examples:
+
+- <del>Strikethrough</del>
+- <abbr>Abbreviations</abbr> (This is used for Abbreviations, and isn't super important.)
+- Superscript<sup>Text</sup>
+- Subscript<sub>Text</sub>
+- <ins>Inserted</ins>
+- <cite>Citations</cite>
+
+HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+
+If you press the key that has a ~ on it, and use that character three times, it makes this:
+
+```
+Some cool interesting statement
+```
+
+
+## Photos
+
+Photos can be made by doing the following:
+
+`![placeholder](https://www.linktoimage.com/ "Image not found")`
+
+The text that says placeholder can stay the same, the the https part is the link to an image, and leave the "Image not found" text. It shows if the image can't be found.
+
+![placeholder](https://placehold.it/800x400 "Large example image")
+
+
+-----
+
+At the end of your writing, type 5 dashes on a line, than type whatever you want below it.

@@ -1,0 +1,49 @@
+title: SpeakOUT
+email: salesn@catlin.edu
+description: Some text about your blog.
+baseurl: "/activism"
+
+#Network config stuff. Make sure to change these to coorespond to the server.
+port: 4000
+
+#Global Config
+#url: "http://10.60.150.118" # the base hostname & protocol for your site
+#host: 10.60.150.118
+#Serve command `bundle exec jekyll serve --host=10.60.150.118`  Access at whatever's in url.
+
+#Local config
+url: "http://localhost/"
+host: "localhost"
+#Serve command `bundle exec jekyll serve --host=localhost` access at http://localhost/
+
+#google_analytics: "UA-XXXXXXXX-X"
+#To serve the site, run `gulp`. ^C when it finishes, then run bundle exec `jekyll serve`.
+
+# User Settings
+username: SpeakOUT
+user_description: Nate Sales
+disqus_username: natesales
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems: #Compiler says to change to gems to plugins
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Submit
+    url: /submit/
+  - title: Standards
+    url: /standards/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
