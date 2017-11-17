@@ -12,10 +12,16 @@ To install SpeakOUT, run the following commands on a linux server.
 
 
 `sudo apt-get install -y build-essential libgemplugin-ruby rubygems`
+
 `curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash - && sudo apt-get install -y nodejs`
+
 You might need to reboot here.
+
 `sudo gem install bundler`
+
 `sudo npm install`
+
 `sudo npm install -g gulp gulp-cli`
+
 `sudo gulp`
 
