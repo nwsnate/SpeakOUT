@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SpeakOUT</title>
+    <description>Some text about your blog.</description>
+    <link>http://localhost:4000/activism/</link>
+    <atom:link href="http://localhost:4000/activism/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Dec 2017 18:14:15 -0800</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2017 18:14:15 -0800</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Example6</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Nov 2017 19:06:27 -0800</pubDate>
+        <link>http://localhost:4000/activism/example6/</link>
+        <guid isPermaLink="true">http://localhost:4000/activism/example6/</guid>
+        
+        <category>Example</category>
+        
+        
+        <category>Example</category>
+        
+      </item>
+    
+      <item>
+        <title>Example5</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Nov 2017 19:06:27 -0800</pubDate>
+        <link>http://localhost:4000/activism/example5/</link>
+        <guid isPermaLink="true">http://localhost:4000/activism/example5/</guid>
+        
+        <category>Example</category>
+        
+        
+        <category>Example</category>
+        
+      </item>
+    
+      <item>
+        <title>Example4</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Nov 2017 19:06:27 -0800</pubDate>
+        <link>http://localhost:4000/activism/example4/</link>
+        <guid isPermaLink="true">http://localhost:4000/activism/example4/</guid>
+        
+        <category>Example</category>
+        
+        
+        <category>Example</category>
+        
+      </item>
+    
+      <item>
+        <title>Example2</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Nov 2017 19:06:27 -0800</pubDate>
+        <link>http://localhost:4000/activism/example3/</link>
+        <guid isPermaLink="true">http://localhost:4000/activism/example3/</guid>
+        
+        <category>Example</category>
+        
+        
+        <category>Example</category>
+        
+      </item>
+    
+      <item>
+        <title>Example2</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Nov 2017 19:06:27 -0800</pubDate>
+        <link>http://localhost:4000/activism/example2/</link>
+        <guid isPermaLink="true">http://localhost:4000/activism/example2/</guid>
+        
+        <category>Example</category>
+        
+        
+        <category>Example</category>
+        
+      </item>
+    
+      <item>
+        <title>Example1</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Nov 2017 19:06:27 -0800</pubDate>
+        <link>http://localhost:4000/activism/example1/</link>
+        <guid isPermaLink="true">http://localhost:4000/activism/example1/</guid>
+        
+        <category>Example</category>
+        
+        
+        <category>Example</category>
+        
+      </item>
+    
+      <item>
+        <title>Template</title>
+        <description>&lt;p&gt;The main body of the issue should go here. If you want to link something, use this method: &lt;a href=&quot;#&quot;&gt;Link text&lt;/a&gt; you can make newlines and &lt;em&gt;italicize things by enclosing them in asterisks&lt;/em&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;To make a quote box, you can put a greater than sign, and make everything on one line.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;You can make things &lt;strong&gt;bold&lt;/strong&gt; by enclosing them in two asterisks.&lt;/p&gt; &lt;h1 id=&quot;single&quot;&gt;Single&lt;/h1&gt; &lt;h2 id=&quot;double&quot;&gt;Double&lt;/h2&gt; &lt;h3 id=&quot;triple&quot;&gt;Triple&lt;/h3&gt; &lt;h4 id=&quot;quadruple&quot;&gt;Quadruple&lt;/h4&gt; &lt;p&gt;To make a title, put 1, 2, 4, or 4 hashtags “#” in front of the title text.&lt;/p&gt; &lt;p&gt;To make a bullet point list, put an asterisk character...</description>
+        <pubDate>Mon, 06 Nov 2017 19:06:27 -0800</pubDate>
+        <link>http://localhost:4000/activism/Template/</link>
+        <guid isPermaLink="true">http://localhost:4000/activism/Template/</guid>
+        
+        <category>Issue</category>
+        
+        <category>Tags</category>
+        
+        
+        <category>Issue</category>
+        
+      </item>
+    
+  </channel>
+</rss>

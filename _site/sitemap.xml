@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://localhost:4000/activism/404.html</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/activism/about/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/activism/feed.xml</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/activism/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/activism/contact/message-sent/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/activism/search.json</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/activism/sitemap.xml</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/activism/standards/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/activism/submit/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/activism/tags/index.html</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/activism/template/</loc>
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:4000/activism/example6/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/activism/example5/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/activism/example4/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/activism/example3/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/activism/example2/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/activism/example1/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/activism/Template/</loc>
+        </url>
+  
+</urlset>
