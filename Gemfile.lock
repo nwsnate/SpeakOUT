@@ -15,7 +15,7 @@ GEM
     html-pipeline (2.6.0)
       activesupport (>= 2)
       #nokogiri (>= 1.4) Don't use this. It's a security vuln. 
-      nokogiri (>= 1.8.1)
+      nokogiri ~> 1.8.1
     i18n (0.8.6)
     jekyll (3.5.1)
       addressable (~> 2.4)
