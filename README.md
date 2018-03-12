@@ -25,3 +25,4 @@ You might need to reboot here.
 
 `sudo gulp`
 
+`bundle exec jekyll serve`
