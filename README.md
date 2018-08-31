@@ -1,4 +1,6 @@
 # SpeakOUT
+# WARNING! END OF SUPPORT
+### This project is no longer being maintained. There are many security vulnerabilities in this project's dependendencies. DO NOT RUN THIS CODE ON A PRODUCTION SERVER. You can fork the repo and fix the vulns if you want. Thank you.
 
 Welcome to SpeakOUT! We strive to be a space where people can comment, talk, and come together to solve or improve an issue. Keep reading to learn how to best use SpeakOUT. Email "salesn@catlin.edu" if you need anything.
 
